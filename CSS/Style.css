@@ -1,0 +1,94 @@
+body {
+	background-color: #1fdef0;
+	font-family: 'Open Sans', sans-serif;
+}
+.news {
+	color: #ffffff;
+	text-decoration: none;
+}
+.news:hover {
+	background-color: #030303;
+}
+.registration {
+	color: #ffffff;
+	text-decoration: none;
+}
+.registration:hover {
+	background-color: #030303;
+}
+.autorization {
+	color: #ffffff;
+	text-decoration: none;
+}
+.autorization:hover {
+	background-color: #030303;
+}
+.backsvaz {
+	color: #ffffff;
+	text-decoration: none;
+}
+.backsvaz:hover {
+	background-color: #030303;
+}
+.firstpage {
+	color: #ffffff;
+	text-decoration: none;
+}
+.firstpage:hover {
+	background-color: #030303;
+}
+.menu {
+	margin-top: 80px;
+}
+.content1 {
+	width: 100px;
+	background-color: #e642f5;
+}
+.name {
+	color: #05ff5d;
+}
+.ima:focus {
+	color: #ff053f;
+}
+.Lastname {
+	color: #05ff5d;
+}
+.Password {
+	color: #05ff5d;
+}
+.City {
+	color: #05ff5d;
+}
+.box {
+	margin-top: 20px;
+	margin-left: 5px;
+}
+.Go {
+	background-color: #ff1c95;
+	text-decoration: none;
+}
+#login {
+	color: #e6153b;
+}
+#pass {
+	color: #e6153b;
+}
+#remember {
+	margin-top: 20px;
+}
+#button {
+	margin-top: 20px;
+	background-color: #ff1c95;
+}
+.firstnew {
+	margin-top: 50px;
+}
+.back {
+	background-color: #ff1c95;
+	text-decoration: none;
+}
+#send {
+	background-color: #ff1c95;
+	text-decoration: none;
+	margin-top: 20px;
+}
